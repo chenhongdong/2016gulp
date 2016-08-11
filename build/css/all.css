@@ -1,0 +1,15 @@
+div {
+  color: red;
+}
+
+body {
+  color: red;
+  width: 640px;
+}
+div {
+  width: 640px;
+  height: 320px;
+}
+div .logo {
+  font-size: 40px;
+}
